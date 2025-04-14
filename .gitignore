@@ -10,3 +10,5 @@ custom_lints.log
 
 # FVM Version Cache
 .fvm/
+
+custom_lint.log
