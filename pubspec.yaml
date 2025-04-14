@@ -1,0 +1,14 @@
+name: yumnumm_lints
+
+environment:
+  sdk: ^3.7.2
+  flutter: ^3.29.2
+
+resolution: workspace
+
+dependencies:
+  altive_lints: ^1.19.1
+  custom_lint: ^0.7.5
+  flutter:
+    sdk: flutter
+  yumemi_lints: ^3.1.0
