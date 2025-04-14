@@ -1,6 +1,12 @@
 # yumnumm_lints
 
-[@YumNumm](https://github.com/YumNumm)の好みをまとめた dart lintパッケージ
+[@YumNumm]の好みをまとめた dart lintパッケージ
+
+> [!IMPORTANT]
+> なお、本パッケージは[@YumNumm]の気まぐれで破壊的な変更を含むアップデートを行います。
+> [@YumNumm]が関与しないコードで利用することは強く推奨しません。
+>
+> なお、pub.devに公開する予定もありません。
 
 ## how to use?
 
@@ -31,3 +37,4 @@ include: package:yumnumm_lints/analysis_options.yaml
 
 [`altive_lints`]: https://pub.dev/packages/altive_lints
 [`custom_lint`]: https://pub.dev/packages/custom_lint
+[@YumNumm]: https://github.com/YumNumm
