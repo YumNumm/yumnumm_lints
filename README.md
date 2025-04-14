@@ -1,6 +1,7 @@
 # yumnumm_lints
 
-[@YumNumm]の好みをまとめた dart lintパッケージ
+- [@YumNumm]の好みをまとめた dart lintパッケージ
+- [`yumemi_lints`]をベースに、[`altive_lints`]のcustom_lint, 好みを追加しています
 
 > [!IMPORTANT]
 > なお、本パッケージは[@YumNumm]の気まぐれで破壊的な変更を含むアップデートを行います。
@@ -37,4 +38,5 @@ include: package:yumnumm_lints/analysis_options.yaml
 
 [`altive_lints`]: https://pub.dev/packages/altive_lints
 [`custom_lint`]: https://pub.dev/packages/custom_lint
+[`yumemi_lints`]: https://pub.dev/packages/yumemi_lints
 [@YumNumm]: https://github.com/YumNumm
