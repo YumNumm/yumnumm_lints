@@ -1,12 +1,12 @@
 name: yumnumm_lints
 
 environment:
-  sdk: ^3.7.2
-  flutter: ^3.29.2
+  sdk: ^3.9.0
+  flutter: ^3.32.0
 
 dependencies:
-  altive_lints: ^1.19.1
+  altive_lints: ^1.21.0
   custom_lint: ^0.7.0
   flutter:
     sdk: flutter
-  yumemi_lints: ^3.1.0
+  yumemi_lints: ^4.2.0
