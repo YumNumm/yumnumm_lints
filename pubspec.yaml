@@ -5,8 +5,8 @@ environment:
   flutter: ^3.32.0
 
 dependencies:
-  altive_lints: 1.22.1
-  custom_lint: 0.8.0
+  altive_lints: ^1.22.1
+  custom_lint: ^0.8.0
   flutter:
     sdk: flutter
   yumemi_lints: ^4.2.0
